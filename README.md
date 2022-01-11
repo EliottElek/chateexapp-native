@@ -1,1 +1,0 @@
-# chateexapp-native
